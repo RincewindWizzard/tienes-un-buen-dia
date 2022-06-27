@@ -5,7 +5,9 @@ Esta es un libro de ejercicios para estudiar la idioma español con otros estudi
 Quiero hacer ejercicios de hablar con vosotros para aprender español.
 
 La nombre "¿Tienes und buen día?" es la pregunta de primera ejercicio que debes responder.
-Una unidad es cerca de 30 minutos de los participantes y utilizamos
+Una unidad es cerca de 30 minutos de los participantes y utilizamos.
+
+Esta pagina web es creado con `github <https://github.com/RincewindWizzard/tienes-un-buen-dia>`_.
 
 Referencias
 -----------
@@ -17,7 +19,7 @@ Referencias
 
 .. toctree::
     :maxdepth: 2
-    :caption: Contents:
+    :caption: Ejercicios:
 
     ejercicios/ej01-tienes-un-buen-dia
     ejercicios/ej02-la-semana-pasada

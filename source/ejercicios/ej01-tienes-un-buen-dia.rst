@@ -4,7 +4,7 @@ Ejercicio 01 - ¿Tienes und buen día?
 .. admonition:: No hay una fecha por esta unidad
 
     Si tenemos una fecha por el conversación, será escrito aqui.
-    `Sala de chat <https://meet.jit.si/Ejercicio01-Tienesundbuendia>`_
+    Únase a nosotros en `la sala de chat <https://meet.jit.si/Ejercicio01-Tienesundbuendia>`_.
 
 
 Hoy vamos a chalar sobre tu día y la semana.

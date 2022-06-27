@@ -10,7 +10,6 @@ Una unidad es cerca de 30 minutos dependente de los participantes y utilizamos `
 Esta pagina web es creado con `github <https://github.com/RincewindWizzard/tienes-un-buen-dia>`_.
 
 
-
 .. toctree::
     :maxdepth: 2
     :caption: Ejercicios:

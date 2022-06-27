@@ -16,6 +16,7 @@ Referencias
 * `diccionario <https://de.pons.com/%C3%BCbersetzung/deutsch-spanisch/W%C3%B6rterbuch>`_
 * `Google Translate <https://translate.google.com/?sl=de&tl=es&text=Hast%20du%20einen%20guten%20Tag%3F&op=translate>`_
 * `Jitsi Meet <https://meet.jit.si/>`_
+* `Cryptpad <https://cryptpad.fr/>`_
 
 .. toctree::
     :maxdepth: 2

@@ -1,8 +1,5 @@
 name: Docs2Pages
-on:
-  push:
-    branches:
-      - master
+on: [push]
 
 jobs:
   build-docs:

@@ -30,10 +30,10 @@ aufstehen           levantarse
 essen               comer
 duschen             ducharse
 sich Zähne putzen   lavarse los dientes
-Brot                pan
-Müsli               cereales
-Auto                coche
-Fahrrad             bicicleta
+Brot                el pan
+Müsli               los cereales
+Auto                el coche
+Fahrrad             la bicicleta
 zu Fuß              a pie
 ==================  ====================
 

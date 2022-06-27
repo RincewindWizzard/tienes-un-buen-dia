@@ -21,7 +21,6 @@ jobs:
         pwd
         ls -la
         touch gh-pages/.nojekyll
-        cd source
         poetry run sphinx-build -b html . _build
         cp -r _build/* ../gh-pages/
     - name: Deploy documentation

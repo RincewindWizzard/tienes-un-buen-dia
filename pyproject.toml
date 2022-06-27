@@ -12,6 +12,7 @@ sphinx-rtd-theme = "^1.0.0"
 
 [tool.poetry.extras]
 docs = ["Sphinx", "sphinx-rtd-theme"]
+amazon = []
 
 
 [tool.poetry.dev-dependencies]

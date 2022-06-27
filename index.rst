@@ -9,6 +9,16 @@ Una unidad es cerca de 30 minutos de los participantes y utilizamos.
 
 Esta pagina web es creado con `github <https://github.com/RincewindWizzard/tienes-un-buen-dia>`_.
 
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Ejercicios:
+
+    ejercicios/ej01-tienes-un-buen-dia
+    ejercicios/ej02-la-semana-pasada
+
+
 Referencias
 -----------
 
@@ -24,11 +34,4 @@ Referencias
 * `Lindie Botes <https://www.youtube.com/c/LindieBotes>`_, sobre aprender en general
 * `Olly Richards <https://www.youtube.com/c/OllyRichards>`_, sobre idiomas en general
 
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Ejercicios:
-
-    ejercicios/ej01-tienes-un-buen-dia
-    ejercicios/ej02-la-semana-pasada
 

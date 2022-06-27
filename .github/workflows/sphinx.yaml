@@ -18,6 +18,8 @@ jobs:
     - name: Build documentation
       run: |
         mkdir gh-pages
+        pwd
+        ls -la
         touch gh-pages/.nojekyll
         poetry run sphinx-build -b html . _build
         cp -r _build/* ../gh-pages/

@@ -14,9 +14,16 @@ Referencias
 
 * `gramática español <https://www.studysmarter.de/schule/spanisch/spanisch-grammatik/>`_
 * `diccionario <https://de.pons.com/%C3%BCbersetzung/deutsch-spanisch/W%C3%B6rterbuch>`_
-* `Google Translate <https://translate.google.com/?sl=de&tl=es&text=Hast%20du%20einen%20guten%20Tag%3F&op=translate>`_
-* `Jitsi Meet <https://meet.jit.si/>`_
-* `Cryptpad <https://cryptpad.fr/>`_
+* `Google Translate <https://translate.google.com/?sl=de&tl=es&text=Hast%20du%20einen%20guten%20Tag%3F&op=translate>`_, Traductor para muchos idiomas.
+* `Jitsi Meet <https://meet.jit.si/>`_, Sala de chat de audio
+* `Cryptpad <https://cryptpad.fr/>`_, herramienta de colaboración
+* `Coffee Break Spanish <https://coffeebreaklanguages.com/coffeebreakspanish/>`_, podcast para aprender español, todos niveles
+* `Charlas Hispanas <https://charlashispanas.com/?nab=0>`_, podcast para aprender español
+* `Hoy en el país <https://elpais.com/podcasts/hoy-en-el-pais/>`_, últimas noticias en español
+* `Hola Spanish <https://www.youtube.com/c/HolaSpanish>`_, una profesora de español
+* `Lindie Botes <https://www.youtube.com/c/LindieBotes>`_, sobre aprender en general
+* `Olly Richards <https://www.youtube.com/c/OllyRichards>`_, sobre idiomas en general
+
 
 .. toctree::
     :maxdepth: 2
